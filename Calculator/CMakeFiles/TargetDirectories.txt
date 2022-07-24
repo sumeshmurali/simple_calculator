@@ -1,4 +1,0 @@
-/home/sumesh/learning/cpp/basics/projects/simple_calculator/Calculator/CMakeFiles/Calculator.dir
-/home/sumesh/learning/cpp/basics/projects/simple_calculator/Calculator/CMakeFiles/edit_cache.dir
-/home/sumesh/learning/cpp/basics/projects/simple_calculator/Calculator/CMakeFiles/rebuild_cache.dir
-/home/sumesh/learning/cpp/basics/projects/simple_calculator/Calculator/CMakeFiles/Calculator_autogen.dir
